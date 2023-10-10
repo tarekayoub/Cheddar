@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v151_219 {
+  width: 100%;
+  height: 982px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v162_11 {
+  width: 952px;
+  height: 176px;
+  background: url("../images/v162_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 304px;
+  left: 280px;
+  overflow: hidden;
+}
+.v162_8 {
+  width: 234px;
+  height: 11px;
+  background: url("../images/v162_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 918px;
+  left: 639px;
+  overflow: hidden;
+}
+.v162_10 {
+  width: 348px;
+  height: 91px;
+  background: url("../images/v162_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 634px;
+  left: 582px;
+  overflow: hidden;
+}
+.v162_9 {
+  width: 324px;
+  height: 77px;
+  background: url("../images/v162_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 111px;
+  left: 590px;
+  overflow: hidden;
+}
+.v162_5 {
+  width: 100%;
+  height: 91px;
+  background: url("../images/v162_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 492px;
+  left: 237px;
+  overflow: hidden;
+}
+.v151_223 {
+  width: 348px;
+  height: 91px;
+  background: url("../images/v151_223.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 649px;
+  left: 582px;
+  overflow: hidden;
+}
+.v151_224 {
+  width: 348px;
+  height: 91px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v151_225 {
+  width: 249px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 27px;
+  left: 49px;
+  font-family: Gilroy;
+  font-weight: Heavy Italic;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.v162_7 {
+  width: 516px;
+  height: 18px;
+  background: url("../images/v162_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 775px;
+  left: 498px;
+  overflow: hidden;
+}
