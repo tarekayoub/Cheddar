@@ -1,0 +1,186 @@
+@font-face {
+  font-family: 'Gilroyb'; /* You can choose any name for your font */
+  src: url('../fonts/Gilroy-ExtraBold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Gilroy'; /* You can choose any name for your font */
+  src: url('../fonts/Gilroy-Light.otf') format('opentype');
+}
+body{
+    font-family: Gilroy !important;
+    background: #000 !important;
+    color: #fff;
+}
+.splash_content h1{
+    font-family: Gilroyb;
+    font-size: 105px;
+    font-style: italic;
+    font-weight: 1000;
+
+    line-height: 98px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fff;
+}
+.font-bold{
+    font-family: Gilroyb;
+    font-weight: 1000;}
+.relative{
+    position: relative;
+}
+.pink{
+    font-family: Gilroy !important;
+    font-weight: 800;
+    text-shadow: 2px 2px 10px #FF00BF;
+    color: #FF00BF;
+}
+.splash_content p{
+    font-family: Gilroy !important;
+    color: #fff;
+    font-family: Gilroy;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.05em;
+    text-align: center;
+}
+span.pointss:after {
+    content: '';
+    position: absolute;
+    width: 80px;
+    height: 56px;
+    background-image: url(../images/mark.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    left: 0;
+    top: -10px;
+}
+span.pointss:before{
+    content: '';
+    position: absolute;
+    width: 80px;
+    height: 32px;
+    background-image: url(../images/coin.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    right: -126%;
+    top: -28px;
+} 
+.button:hover{
+    color: #fff;
+    background: #FF00BF ;
+}
+.button{
+    transition: 0.5s;
+    font-family: Gilroyb;
+    font-size: 28px;
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: black;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000;
+    background: #fff;
+    border: 0px;
+    border-radius: 40px;
+    padding: 20px 40px;
+}
+.small_text{
+    color: #fff !important;
+    font-family: Gilroy !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    line-height: 21px !important;
+    letter-spacing: -0.05em !important;
+    text-align: center !important;
+}
+.small_text b{
+    text-shadow: 1px  1px 10px white;
+}
+.copy{
+    font-family: Gilroy;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 11px;
+    letter-spacing: -0.05em;
+    text-align: center;
+    color: #fff;
+}
+.form-input{
+    padding: 10px;
+    height: 45px;
+    border-radius: 10px;
+    border: 2px solid #E8E8E8;
+    box-shadow: 2px 2px 2px 2px #A8A8A81A;
+    display: block;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.buttonpink:hover{
+    color: #000;
+    background: #fff ;
+}
+.buttonpink{
+    transition: 0.5s;
+    font-family: Gilroyb;
+    font-size: 14px;
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: black;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #fff;
+    background: #FF00BF;
+    border: 0px;
+    border-radius: 40px;
+    padding: 5px 15px;
+}
+.boxx h6{
+    font-family: Gilroyb;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 1000;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.boxx p{
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 992px) {
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .splash_content h1{
+        font-size: 70px;
+            line-height: 78px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .splash_content h1{
+        font-size: 50px;
+            line-height: 48px;
+    }
+}
